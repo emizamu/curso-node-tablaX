@@ -7,7 +7,7 @@ console.clear();
 
 
 //console.log(process.argv)
-//console.log(argv)
+console.log(argv)
 
 //console.log('base: yargs', argv.base)
 
