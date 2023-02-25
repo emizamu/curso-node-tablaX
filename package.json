@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "base3": "node app.js --base=3"
   },
-  "author": "Fernando Herrera",
+  "author": "Emiliano Zamudio",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
